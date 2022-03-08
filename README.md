@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @PedroAPR Pedro Augusto Pinheiro Reis
+- 👀 I’m interested in Java, Python, Node.js, React, Angular, PHP...
+- 🌱 I’m currently learning TypeScript...
+- 📫 How to reach me pedrothor@gmail.com...
+
+<!---
+PedroAPR/PedroAPR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
